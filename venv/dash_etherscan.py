@@ -9,7 +9,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 
 # api key etherscan
-api_key = 'ST45D2FATG77Z99AE9D4DX3TFW8A5WFGN8'
+api_key = 'apikey'
 
 contracts = [
     '0x398ec7346dcd622edc5ae82352f02be94c62d119',
