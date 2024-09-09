@@ -9,7 +9,7 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 
 # api key etherscan
-api_key = 'ST45D2FATG77Z99AE9D4DX3TFW8A5WFGN8'
+api_key = 'apikey'
 
 # Lista de contratos de flash loans conhecidos
 contracts = [
